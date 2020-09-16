@@ -1,6 +1,6 @@
-package com.saic.delta
+package com.practice.delta
 
-import com.saic.delta.CdcChangeSetToStage.LineItem
+import CdcChangeSetToStage.LineItem
 import io.delta.tables.DeltaTable
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.sql.SparkSession

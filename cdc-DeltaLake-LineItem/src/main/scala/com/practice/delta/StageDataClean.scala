@@ -1,4 +1,4 @@
-package com.saic.delta
+package com.practice.delta
 
 import io.delta.tables.DeltaTable
 import org.apache.spark.sql.SparkSession

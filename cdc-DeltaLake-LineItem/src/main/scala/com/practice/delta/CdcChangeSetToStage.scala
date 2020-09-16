@@ -1,10 +1,10 @@
-package com.saic.delta
+package com.practice.delta
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.Dataset
 import java.util.Date
 
-import com.saic.delta.bean.CdcOperationEnum
+import com.practice.delta.bean.CdcOperationEnum
 
 object CdcChangeSetToStage {
   def main(args: Array[String]){

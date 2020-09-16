@@ -1,5 +1,4 @@
-package com.saic.delta.bean
-
+package com.practice.delta.bean
 
 class ChangeRecord {
 
